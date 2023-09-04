@@ -27,15 +27,18 @@ The code supports loading the following types of files:
 - `.gexf` files: Used to load graphs in GEXF format.
 - `.pickle` files: Used to load graphs in serialized pickle format.
 
-## Open Network Datasets
-| Name                                   | Number of Nodes | Number of Edges |
-|----------------------------------------|-----------------|-----------------|
-| BT-22                                  | 22              | 35              |
-| 30-Node-ONDPBook-Topology_nodes        |              30 |              36 |
+<!---
+| 30-Node-ONDPBook       |              30 |              36 |
 | 60-Node-CONUS-Topology_nodes           |              60 |              79 |
 | 60-Node-ONDPBook-Topology_nodes        |              60 |              77 |
 | CORONET_CONUS_Topology_nodes           |              75 |              99 |
 | CORONET_Global_Topology_nodes          |             100 |             136 |
+
+-->
+## Open Network Datasets
+| Name                                   | Number of Nodes | Number of Edges |
+|----------------------------------------|-----------------|-----------------|
+| BT-22                                  | 22              | 35              |
 | abilene                                |              12 |              15 |
 | atlanta                                |              15 |              22 |
 | cost266                                |              37 |              57 |

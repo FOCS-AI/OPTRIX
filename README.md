@@ -81,7 +81,7 @@ The code supports loading the following types of files:
 
 
 
-
+<!---
 Cite as: 
 
 ```
@@ -92,4 +92,5 @@ Cite as:
 	year = {2023}
 }
 '''
+--->
 

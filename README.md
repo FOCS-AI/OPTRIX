@@ -81,6 +81,13 @@ The code supports loading the following types of files:
 
 
 
+## References 
+- BT-22 from Strategies for upgrading an operator's backbone network beyond the C-band: Towards multi-band optical networks https://ieeexplore.ieee.org/document/9336212
+- SNDlib 1.0—Survivable Network Design Library: https://dl.acm.org/doi/10.5555/1780374.1780385
+- CORONET topology https://data.mendeley.com/datasets/p9ky37n727/1
+- The Internet Topology Zoo: https://ieeexplore.ieee.org/document/6027859
+- Internet Topology Zoo Dataset http://www.topology-zoo.org/
+
 <!---
 Cite as: 
 

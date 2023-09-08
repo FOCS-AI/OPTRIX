@@ -1,7 +1,5 @@
 # optrix
 A dataset of publicly available core network topologies
-
-# dataset-core-networks
 - An analysis-ready dataset of publicly available core optical fibre networks (BT, Internet Topology Zoo, SNDlib, Conus) 
 - Source code provides scripts to load and analyze core network dataset.
 
@@ -12,7 +10,6 @@ A dataset of publicly available core network topologies
 - Pickle: A module for serializing and deserializing Python objects.
 
   
-
 ## Types of Networks
 The code provides a collection of networks from different datasets. Currently, it includes the following datasets:
 - SNDLib: A collection of network topologies used for network optimization problems.

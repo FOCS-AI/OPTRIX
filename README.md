@@ -87,6 +87,7 @@ The code supports loading the following types of files:
 - CORONET topology https://data.mendeley.com/datasets/p9ky37n727/1
 - The Internet Topology Zoo: https://ieeexplore.ieee.org/document/6027859
 - Internet Topology Zoo Dataset http://www.topology-zoo.org/
+- Making intelligent topology design choices https://ieeexplore.ieee.org/document/9464105
 
 <!---
 Cite as: 

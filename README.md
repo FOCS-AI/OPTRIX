@@ -1,7 +1,8 @@
 # optrix
-A dataset of publicly available core network topologies
+- A dataset of publicly available core network topologies
 - An analysis-ready dataset of publicly available core optical fibre networks (BT, Internet Topology Zoo, SNDlib, Conus) 
-- Source code provides scripts to load and analyze core network dataset.
+
+[comment]: < - Source code provides scripts to load and analyze core network dataset>
 
 ## Requirements
 - NetworkX: A Python library for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
@@ -16,6 +17,7 @@ The code provides a collection of networks from different datasets. Currently, i
 - ITZ: A collection of network topologies from the Internet Topology Zoo Dataset.
 - BT: British Telecommunication's Core Network BT-22 Published Online
 
+<!---
 ## Types of Files
 The code supports loading the following types of files:
 - `.adjlist` files: Used to load graphs in adjacency list format.
@@ -23,7 +25,7 @@ The code supports loading the following types of files:
 - `.graphml` files: Used to load graphs in GraphML format.
 - `.gexf` files: Used to load graphs in GEXF format.
 - `.pickle` files: Used to load graphs in serialized pickle format.
-
+-->
 <!---
 | 30-Node-ONDPBook       |              30 |              36 |
 | 60-Node-CONUS-Topology_nodes           |              60 |              79 |

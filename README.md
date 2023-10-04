@@ -101,3 +101,46 @@ Cite as:
 '''
 --->
 
+
+**Graphs with 30 nodes or less**
+
+| No. | Name                         | Nodes | Edges |
+|-----|-------------------------------------|-------|-------|
+| 1  | 30-Node-ONDPBook-Topology_nodes    | 30    | 36     | 
+| 2  | abilene                      | 12    | 15     | 
+| 3  | atlanta                      | 15    | 22     |  
+| 4  | geant                        | 22    | 36     | 
+| 5  | nobel-eu                     | 28    | 41     | 
+| 6  | nobel-germany                | 17    | 26     | 
+| 7  | nobel-us                     | 14    | 21     | 
+| 8  | polska                       | 12    | 18     | 
+
+**Graphs with more than 30 nodes**
+
+| No. | Name                           | Nodes | Edges |
+|-----|-------------------------------------|-------|-------|
+| 1  | 60-Node-CONUS-Topology_nodes      | 60    | 79     | 
+| 2  | 60-Node-ONDPBook-Topology_nodes    | 60    | 77     | 
+| 3  | CORONET_CONUS_Topology_nodes       | 75    | 99     |
+| 4  | CORONET_Global_Topology_nodes      | 100   | 136    | 
+| 5  | cost266                           | 37    | 57     |
+| 6  | france                            | 25    | 45     | 
+| 7  | germany50                         | 50    | 88     | 
+| 8  | giul39                            | 39    | 86     |
+| 9  | india35                           | 35    | 80     | 
+| 10 | janos-us-ca                       | 39    | 61     | 
+| 11 | norway                            | 27    | 51     | 
+| 12 | pioro40                           | 40    | 89     | 
+| 13 | sun                               | 27    | 51     | 
+| 14 | ta1                               | 24    | 51     | 
+| 15 | ta2                               | 65    | 108    | 
+| 16 | zib54                             | 54    | 80     | 
+| 17 | Darkstrand                        | 28    | 31     |
+| 18 | IowaStatewideFiberMap             | 33    | 41     | 
+| 19 | LambdaNet                         | 42    | 46     |
+| 20 | PionierL1                         | 36    | 41     | 
+| 21 | VtlWavenet2008                    | 88    | 92     | 
+| 22 | VtlWavenet2011                    | 92    | 96     | 
+| 23 | BT_22                             | 22    | 36     | 
+| 24 | BT_106                            | 106   | 180    | 
+

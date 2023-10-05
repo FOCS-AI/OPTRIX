@@ -161,18 +161,22 @@ Cite as:
 | 10  | IowaStatewideFiberMap           | 33    | 41    |
 
 ## European Topologies 
-| No. |               Name              | Nodes | Edges |
-|:---:|:-------------------------------:|:-----:|:-----:|
-| 1   | 30-Node-ONDPBook-Topology_nodes | 30    | 36    |
-| 2   | abilene                         | 12    | 15    |
-| 3   | atlanta                         | 15    | 22    |
-| 4   | nobel-us                        | 14    | 21    |
-| 5   | 60-Node-CONUS-Topology_nodes    | 60    | 79    |
-| 6   | 60-Node-ONDPBook-Topology_nodes | 60    | 77    |
-| 7   | CORONET_CONUS_Topology_nodes    | 75    | 99    |
-| 8   | janos-us-ca                     | 39    | 61    |
-| 9   | Darkstrand                      | 28    | 31    |
-| 10  | IowaStatewideFiberMap           | 33    | 41    |
+| No. |      Name      | Nodes | Edges |
+|:---:|:--------------:|:-----:|:-----:|
+| 1   | geant          | 22    | 36    |
+| 2   | nobel-eu       | 28    | 41    |
+| 3   | polska         | 12    | 18    |
+| 4   | cost266        | 37    | 57    |
+| 5   | france         | 25    | 45    |
+| 6   | germany50      | 50    | 88    |
+| 7   | ta1            | 24    | 51    |
+| 8   | ta2            | 65    | 108   |
+| 9   | LambdaNet      | 42    | 46    |
+| 10  | PionierL1      | 36    | 41    |
+| 11  | VtlWavenet2008 | 88    | 92    |
+| 12  | VtlWavenet2011 | 92    | 96    |
+| 13  | BT_22          | 22    | 36    |
+| 14  | BT_106         | 106   | 180   |
 
 
 ## Unknown Topologies 

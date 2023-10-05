@@ -145,4 +145,39 @@ Cite as:
 | 24 | BT_106                            | 106   | 180    | United Kingdom    |
 
 
+## US Topologies 
 
+| No. |               Name              | Nodes | Edges |
+|:---:|:-------------------------------:|:-----:|:-----:|
+| 1   | 30-Node-ONDPBook-Topology_nodes | 30    | 36    |
+| 2   | abilene                         | 12    | 15    |
+| 3   | atlanta                         | 15    | 22    |
+| 4   | nobel-us                        | 14    | 21    |
+| 5   | 60-Node-CONUS-Topology_nodes    | 60    | 79    |
+| 6   | 60-Node-ONDPBook-Topology_nodes | 60    | 77    |
+| 7   | CORONET_CONUS_Topology_nodes    | 75    | 99    |
+| 8   | janos-us-ca                     | 39    | 61    |
+| 9   | Darkstrand                      | 28    | 31    |
+| 10  | IowaStatewideFiberMap           | 33    | 41    |
+
+## European Topologies 
+| No. |               Name              | Nodes | Edges |
+|:---:|:-------------------------------:|:-----:|:-----:|
+| 1   | 30-Node-ONDPBook-Topology_nodes | 30    | 36    |
+| 2   | abilene                         | 12    | 15    |
+| 3   | atlanta                         | 15    | 22    |
+| 4   | nobel-us                        | 14    | 21    |
+| 5   | 60-Node-CONUS-Topology_nodes    | 60    | 79    |
+| 6   | 60-Node-ONDPBook-Topology_nodes | 60    | 77    |
+| 7   | CORONET_CONUS_Topology_nodes    | 75    | 99    |
+| 8   | janos-us-ca                     | 39    | 61    |
+| 9   | Darkstrand                      | 28    | 31    |
+| 10  | IowaStatewideFiberMap           | 33    | 41    |
+
+
+## Unknown Topologies 
+| No. |  Name  | Nodes | Edges |
+|:---:|:------:|:-----:|:-----:|
+| 1   | giul39 | 39    | 86    |
+| 2   | sun    | 27    | 51    |
+| 3   | zib54  | 54    | 80    |

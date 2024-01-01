@@ -108,6 +108,8 @@ Cite as:
 '''
 --->
 
+
+<!---
 ## Small and Large Topologies
 **Graphs with 30 nodes or less**
 
@@ -150,6 +152,8 @@ Cite as:
 | 22 | VtlWavenet2011                    | 92    | 96     | Europe    |
 | 23 | BT_22                             | 22    | 36     | United Kingdom    |
 | 24 | BT_106                            | 106   | 180    | United Kingdom    |
+
+--->
 
 
 ## US Topologies 
